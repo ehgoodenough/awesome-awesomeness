@@ -302,6 +302,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Test Automation](https://github.com/atinfo/awesome-test-automation)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 	- [Twilio](https://github.com/Twilio-org/awesome-twilio)
+	- [Twitch](https://github.com/ehgoodenough/awesome-twitch)
 	- [Unity](https://github.com/RyanNielson/awesome-unity)
 	- [UI Styleguide](https://github.com/kevinwuhoo/ui-styleguides)
 		- [UI Components for Styleguide](https://github.com/anubhavsrivastava/awesome-ui-component-library)
